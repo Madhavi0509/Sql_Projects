@@ -1,6 +1,6 @@
-Instagram Clone Project
+# Instagram Clone Project #
 
-# This is a simple Instagram Clone created using HTML and CSS to replicate the basic UI of Instagram. It includes the homepage layout, navigation bar, and post feed styling.
+This is a simple Instagram Clone created using HTML and CSS to replicate the basic UI of Instagram. It includes the homepage layout, navigation bar, and post feed styling.
 
 # Features
 ✅ Login Page: A basic login form like Instagram
